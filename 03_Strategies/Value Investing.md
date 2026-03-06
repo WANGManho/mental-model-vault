@@ -1,4 +1,4 @@
-﻿# Strategy: Value Investing
+# Strategy: Value Investing
 
 ## Essence
 Buy assets below intrinsic value with a margin of safety based on conservative estimates of future cash flows.

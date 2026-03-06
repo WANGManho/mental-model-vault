@@ -1,4 +1,4 @@
-﻿# Mental Model: Path Dependence
+# Mental Model: Path Dependence
 
 ## Definition
 Path dependence explains how early decisions or random events lock systems into trajectories that are difficult to reverse.

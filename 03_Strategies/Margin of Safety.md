@@ -1,4 +1,4 @@
-﻿# Strategy: Margin of Safety
+# Strategy: Margin of Safety
 
 ## Definition
 Margin of safety is the buffer between an asset's intrinsic value and the price you pay, protecting against estimation errors and adverse events.

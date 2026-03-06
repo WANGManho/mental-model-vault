@@ -1,4 +1,4 @@
-﻿# Decision: Sample Strategic Bet
+# Decision: Sample Strategic Bet
 
 Date: 2024-01-15
 

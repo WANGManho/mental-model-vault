@@ -1,4 +1,4 @@
-﻿# Mental Models Map
+# Mental Models Map
 
 Use this hub as the jumping-off point to browse the latticework. Each section links to discipline-specific MOCs and representative notes.
 

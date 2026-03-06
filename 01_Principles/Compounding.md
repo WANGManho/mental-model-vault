@@ -1,4 +1,4 @@
-﻿# Principle: Compounding
+# Principle: Compounding
 
 ## Essence
 Small advantages that reinvest into themselves create exponential growth or decay.

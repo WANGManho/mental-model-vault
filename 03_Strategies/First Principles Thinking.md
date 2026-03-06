@@ -1,4 +1,4 @@
-﻿# Strategy: First Principles Thinking
+# Strategy: First Principles Thinking
 
 ## Essence
 Break problems down to fundamental truths, reason upward from physics or economics instead of relying on analogy.

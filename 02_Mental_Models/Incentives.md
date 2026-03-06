@@ -1,4 +1,4 @@
-﻿# Mental Model: Incentives
+# Mental Model: Incentives
 
 ## Definition
 Incentives are rewards or penalties that drive behavior; systems get the behavior they pay for.

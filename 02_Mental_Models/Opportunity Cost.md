@@ -1,4 +1,4 @@
-﻿# Mental Model: Opportunity Cost
+# Mental Model: Opportunity Cost
 
 ## Definition
 Opportunity cost measures the value of the best alternative forgone when choosing one option over another.

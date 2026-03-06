@@ -1,4 +1,4 @@
-﻿# Workflow Scenarios
+# Workflow Scenarios
 
 ## Adding a New Book Idea
 1. Capture highlights and bibliography in a fleeting note.

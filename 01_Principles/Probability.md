@@ -1,4 +1,4 @@
-﻿# Principle: Probability
+# Principle: Probability
 
 ## Essence
 Probability quantifies uncertainty and enables calibrated expectations about outcomes.

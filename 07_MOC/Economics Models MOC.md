@@ -1,4 +1,4 @@
-﻿# Economics Models MOC
+# Economics Models MOC
 
 Focus on trade-offs, incentives, and market dynamics.
 
