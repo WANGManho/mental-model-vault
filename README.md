@@ -16,17 +16,24 @@ This vault is a practical implementation of Charlie Munger's **latticework of me
 
 ## Linking Ideas
 - Use Obsidian's `[[wikilinks]]` liberally. Every note has dedicated sections for **Related Models** or **Models Used**.
-- When you link two notes, skim the target note and reciprocate links if the relationship is meaningful. Bidirectional links power the graph view.
-- Tag selectively (e.g., `#mental-model`, `#principle`, `#decision`) so filters stay useful.
+- When you link two notes, reciprocate if the relationship is meaningful. Bidirectional links power the graph view.
+- Follow the [[Tag Taxonomy]] so Dataview queries and graph filters stay accurate.
 
 ## Using the Graph View
-- From Obsidian, open the local graph for a note to see its immediate latticework. Aim for at least three meaningful connections per note.
+- Open the local graph for a note to see its immediate latticework. Aim for at least three meaningful connections per note.
 - Use the global graph with filters such as `tag:#mental-model` or `path:05_Cases` to surface clusters and bridge disciplines.
-- Periodically review sparse nodes—add links, supporting cases, or strategies so they integrate with the network.
+- Review sparse nodes regularly—add links, supporting cases, or strategies so they integrate with the network.
 
 ## Growing the Knowledge Network
 - Convert reading highlights into Literature or Fleeting notes in `00_System`, then promote them into permanent notes using templates.
-- Build decision logs that cite specific models; revisit them to evaluate outcomes and refine your playbook.
+- Build decision logs that cite specific models; revisit them via [[06_Decisions/Decision Review]] to evaluate outcomes.
 - Create new Map of Content (MOC) pages whenever a cluster of ideas deserves its own hub. The `Mental Models Map` is a starting point—expand it as the vault grows.
+
+## Advanced Obsidian Features
+- **Dashboards**: Start each session from [[00_System/Vault Dashboard]] for quick stats, fresh models, and review queues. Use [[07_MOC/Knowledge Dashboard Index]] for collection-specific tables.
+- **Dataview Queries**: Tables and lists auto-update everywhere (clusters, indexes, reviews). Modify the queries to suit your workflow.
+- **Model Clusters**: Filter mental models by discipline in [[07_MOC/Model Clusters]] to spark cross-domain combinations.
+- **Decision Reviews**: Every decision note includes structured frontmatter so [[06_Decisions/Decision Review]] can surface due retros.
+- **Tag Taxonomy**: Standardized tags keep clusters, dashboards, and graph filters reliable.
 
 Happy thinking—keep compounding insight by linking ideas across domains.

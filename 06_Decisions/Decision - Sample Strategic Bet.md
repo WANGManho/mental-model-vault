@@ -1,12 +1,24 @@
+﻿---
+tags: [decision]
+decision-date: 2024-01-15
+review-date: 2024-06-30
+status: In Progress
+models-used:
+  - [[Opportunity Cost]]
+  - [[Margin of Safety]]
+  - [[Comparative Advantage]]
+  - [[Loss Aversion]]
+---
 # Decision: Sample Strategic Bet
-
-Date: 2024-01-15
 
 ## Context
 Considering whether to invest in building a proprietary data platform versus licensing an external vendor.
 
 ## Models Used
-[[Opportunity Cost]] · [[Margin of Safety]] · [[Comparative Advantage]] · [[Loss Aversion]]
+- [[Opportunity Cost]]
+- [[Margin of Safety]]
+- [[Comparative Advantage]]
+- [[Loss Aversion]]
 
 ## Options Considered
 1. Build in-house: high upfront cost, custom fit.

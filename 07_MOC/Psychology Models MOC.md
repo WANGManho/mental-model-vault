@@ -1,4 +1,4 @@
-﻿# Psychology Models MOC
+# Psychology Models MOC
 
 Track how human cognition shapes decisions.
 

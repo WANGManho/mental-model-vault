@@ -1,4 +1,4 @@
-# Mental Models Map
+﻿# Mental Models Map
 
 Use this hub as the jumping-off point to browse the latticework. Each section links to discipline-specific MOCs and representative notes.
 
@@ -39,5 +39,10 @@ Use this hub as the jumping-off point to browse the latticework. Each section li
 - [[Economics Models MOC]]
 - [[Psychology Models MOC]]
 - [[Systems Models MOC]]
+
+## Dashboards & Clusters
+- [[00_System/Vault Dashboard|Vault Dashboard]]
+- [[Knowledge Dashboard Index]]
+- [[Model Clusters]]
 
 Tags: #moc #map

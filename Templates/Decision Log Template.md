@@ -1,12 +1,20 @@
-﻿# Decision: {{title}}
-
-Date: {{date}}
+﻿---
+tags: [decision]
+decision-date: {{date}}
+review-date: {{review-date}}
+status: Draft
+models-used:
+  - [[Model 1]]
+  - [[Model 2]]
+---
+# Decision: {{title}}
 
 ## Context
 Describe the background, constraints, and stakes.
 
 ## Models Used
-[[Model 1]] · [[Model 2]]
+- [[Model 1]]
+- [[Model 2]]
 
 ## Options Considered
 - Option A
